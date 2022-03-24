@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ystan-
+- 👋 Hi, I'm Yong Sheng
 - 👀 I’m interested in modern web apps and enterprise solutions
 - 🌱 I’m currently learning all things frontend, backend and in between
 - 💞️ I’m looking to collaborate on any projects in the fintech space
